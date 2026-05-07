@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Vinicius de Jesus
 
-<!--
-**Vnczs/Vnczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Analíse e Desenvolvimento de Sistemas|C#**  
+Brazil
 
-Here are some ideas to get you started:
+I study System and Analys Development my focus is on back-and in C# OR Python**.
+Looking for an internship or junior position to apply my skills.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/Vnczs">
+    <img src="https://img.shields.io/badge/GitHub-Vnczs-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/viniciusjesus01/">
+    <img src="https://img.shields.io/badge/Instagram-@viniciusjesus01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+---
+
+## 🧠 What I do
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   🤖 Automation & integrations
+  
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+
+![Python](https://img.shields.io/badge/python-3776AB?stly=for-the-badge&logo=python&logocolor=white)
+
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
+
