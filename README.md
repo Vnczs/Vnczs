@@ -32,7 +32,6 @@ Looking for an internship or junior position to apply my skills.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 
-![Python](https://img.shields.io/badge/python-3776AB?stly=for-the-badge&logo=python&logocolor=white)
 
 
 ## 🚀 Philosophy
